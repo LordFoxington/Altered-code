@@ -300,6 +300,7 @@ ClassList["artificer"] = {
         }
     }
 };
+
 // Forge Adept //
 
 ClassSubList["artificer-Forge Adept"] = {
@@ -336,8 +337,8 @@ ClassSubList["artificer-Forge Adept"] = {
 		"You gain proficiency with martial weapons.",
 		"Additionally, when you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls."
             ]),    
-         
-         "Legendary Weapon": {
+	},
+        "Legendary Weapon": {
             name: "Legendary Weapon",
             source: ["HB"],
             minlevel: 3,
